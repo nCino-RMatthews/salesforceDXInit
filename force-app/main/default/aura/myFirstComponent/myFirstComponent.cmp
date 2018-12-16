@@ -1,5 +1,9 @@
-<aura:component implements="force:appHostable" >
-    <lightning:card title="Text in Design System">
-        <p>Handling text in Lightning Experience</p>
+<aura:component implements="force:appHostable">
+    <lightning:card title="Handling borders in the slds">
+        <div>
+            <div>
+                <p>Exploring Borders in Lightning Experience</p>
+            </div>
+        </div>
     </lightning:card>
 </aura:component>
