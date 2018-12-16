@@ -14,6 +14,11 @@
             if(state === "SUCCESS"){
                 var result = response.getReturnValue();
                 console.log(result);
+                result = JSON.parse(result);
+                component.set("v.url", result.data.url);
+                
+
+
 
             }else if(state === "INCOMPLETE"){
 
