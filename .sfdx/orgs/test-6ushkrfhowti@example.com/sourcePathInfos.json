@@ -92,16 +92,15 @@
     [
         "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.cmp",
             "isDirectory": false,
-            "size": 199,
-            "modifiedTime": 1544980080863,
-            "changeTime": 1544980080863,
-            "contentHash": "9a4fe6487be7016a9defbc3708f8c13554447e2a",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 192,
+            "modifiedTime": 1544980446693,
+            "changeTime": 1544980446693,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "9cc62bfe3502d7d89bfc397aa456c6e0d8ed988f"
         }
     ],
     [
