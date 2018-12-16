@@ -3,9 +3,6 @@ public with sharing class URLShortenerController {
     private static string LOGIN = 'robertmatthewsstudy';
     private static string API_KEY = 'R_c5fa0fd83a164ea3b439f4e5c48de3da';
 
-
-
-
     @AuraEnabled
     public static string URLShortenMethod(string long_url){
 
@@ -19,19 +16,19 @@ public with sharing class URLShortenerController {
     }
 
 
-private static string getCalloutResponseContents(string url){
-    string result = null;
+    private static string getCalloutResponseContents(string url){
+        string result = null;
 
-    Http h = new Http();
-    HttpRequest req = new HttpRequest();
-    req.setEndpoint(url);
-    req.setMethod('GET');
+        Http h = new Http();
+        HttpRequest req = new HttpRequest();
+        req.setEndpoint(url);
+        req.setMethod('GET');
 
-    HttpResponse res = h.send(req);
-    if(res.getStatusCode() == 200){
-        result = res.getBody();
+        HttpResponse res = h.send(req);
+        if(res.getStatusCode() == 200){
+            result = res.getBody();
+        }
+        return result;
+
+        }
     }
-    return result;
-
-    }
-}
