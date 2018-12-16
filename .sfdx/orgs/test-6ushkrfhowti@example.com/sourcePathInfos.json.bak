@@ -1,0 +1,227 @@
+[
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544975865286,
+            "changeTime": 1544975865286,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544975865286,
+            "changeTime": 1544975865286,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544975865286,
+            "changeTime": 1544975865286,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544977599320,
+            "changeTime": 1544977599320,
+            "contentHash": "98d3432e6d8efaa527b6ca2a54bd27e08dfe7a47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1544977599325,
+            "changeTime": 1544977599325,
+            "contentHash": "dbaaee35049c001527ef8c77dc1f3ce7586126c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1544977599325,
+            "changeTime": 1544977599325,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 74,
+            "modifiedTime": 1544977628363,
+            "changeTime": 1544977628363,
+            "contentHash": "6d100e6007245ab0178a7cf77cfecac5667f8749",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1544977599321,
+            "changeTime": 1544977599321,
+            "contentHash": "9565ea3e552ce4629d66c7dac2d7811b80f90c38",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1544977599323,
+            "changeTime": 1544977599323,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1544977599325,
+            "changeTime": 1544977599325,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1544977599324,
+            "changeTime": 1544977599324,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponentController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1544977599322,
+            "changeTime": 1544977599322,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponentHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1544977599323,
+            "changeTime": 1544977599323,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponentRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX/force-app/main/default/aura/myFirstComponent/myFirstComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1544977599324,
+            "changeTime": 1544977599324,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertmatthews/salesforceCastsDX",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertmatthews/salesforceCastsDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1544976667883,
+            "changeTime": 1544976667883,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

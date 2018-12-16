@@ -1,0 +1,8 @@
+{
+    "orgName": "robertmatthews Company",
+    "edition": "Developer",
+    "features": ["PersonAccounts", "ProcessBuilder"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
